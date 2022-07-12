@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreiVincene
+- 👋 Hi, I’m Andrei
 - 👀 I’m interested in amateur radio and coding sessions
 - 🌱 I’m currently learning python, C++ and SQL
 - 💞️ I’m looking to collaborate on GUI coding and networking
